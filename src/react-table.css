@@ -1,0 +1,4 @@
+// JS (Webpack)
+import 'react-table/react-table.css'
+// Old-school
+<link rel="stylesheet" href="node_modules/react-table/react-table.css">
